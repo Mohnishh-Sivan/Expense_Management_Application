@@ -6,6 +6,12 @@
 
 Designed and Developed a Voice Activated Expense Management Application called Spendify using HTML 5, CSS 3, React JavaScript, Speechly Software and Document Object Model Storage.
 
+<h4>KEY FEATURES :-</h4>
+ ● &nbsp;Chatify Allows You To Stay In Touch With Your Family, Friends, Colleagues, Etc By Sending A Message To Them Either Personally Or Within A Group.<br />
+ ● &nbsp;Furthermore, You Also Have The Ability To Name Your Groups, Customize Your Chats, Disable Notifications, Etc.<br />
+ ● &nbsp;In Addition To These Features, You Can Also Share News Articles, Photos, Videos, Documents, Slideshows, Spreadsheets, PDFs, Etc.<br />
+ ● &nbsp;Finally, Your Messages Are Completely Protected Through Chatify Because They Are End-To-End Encrypted.<br />
+
 <h4>APPLICATION URL :-</h4>
 💰 Spendify™ - https://spendifyapplication.netlify.app/
 
