@@ -1,4 +1,4 @@
-<h2>💰 Spendify™ - Expense Management Application</h2>
+<h2>💰 Spendify™ – Expense Management Application</h2>
 
 <p align="center">
 <img src="ApplicationPreview.png">
