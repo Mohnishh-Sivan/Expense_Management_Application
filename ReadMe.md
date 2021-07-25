@@ -16,9 +16,9 @@ Designed and Developed a Voice Activated Expense Management Application called S
 💰 Spendify™ - https://spendifyapplication.netlify.app/
 
 <h4>LICENSE AGREEMENT :-</h4>
-Released Under MIT License.<br />
+Released Under Massachusetts Institute Of Technology License.<br />
 <p></p>
-Permission Is Hereby Granted, Free Of Charge, To Any Person Obtaining A Copy Of This Software And Associated Documentation Files (The "Software"), To Deal In The Software Without Restriction, Including Without Limitation The Rights To Use, Copy, Modify, Merge, Publish, Distribute, Sublicense, And/Or Sell Copies Of The Software, And To Permit Persons To Whom The Software Is Furnished To Do So, Subject To The Following Conditions :-<br />
+Permission Is Hereby Granted, Free Of Charge, To Any Person Obtaining A Copy Of This Software And Associated Documentation Files (The "Software"), To Deal In The Software Without Restriction, Including Without Limitation The Rights To Use, Copy, Modify, Merge, Publish, Distribute, Sublicense, And/Or Sell Copies Of The Software, And To Permit Persons To Whom The Software Is Furnished To Do So, Subject To The Following Conditions -<br />
 <p></p>
 1.&nbsp;The Below Copyright Notice And This Permission Notice Shall Be Included In All Copies Or Substantial Portions Of The Software.
 <p></p>
