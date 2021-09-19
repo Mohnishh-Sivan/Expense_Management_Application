@@ -6,15 +6,6 @@
 
 Designed and Developed a Voice Activated Expense Management Application called Spendify using HTML 5, CSS 3, React JavaScript, Speechly Software and Document Object Model Storage.
 
-<h4>KEY FEATURES :-</h4>
- ● &nbsp;<br />
- ● &nbsp;<br />
- ● &nbsp;<br />
- ● &nbsp;<br />
-
-<h4>APPLICATION URL :-</h4>
-💰 Spendify™ - https://spendifyapplication.netlify.app/
-
 <h4>LICENSE AGREEMENT :-</h4>
 Released Under Massachusetts Institute Of Technology License.<br />
 <p></p>
